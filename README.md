@@ -10,20 +10,16 @@ A fully responsive clone of the Myntra online shopping platform. This project re
 - Add to cart functionality
 - Search bar
 - Responsive design for mobile and desktop
-- Login/Signup UI (optional)
+- Login/Signup
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla or with frameworks like React, if applicable)
-- Bootstrap (if used)
-- Express.js (for backend, if used)
-- MongoDB (for database, if used)
-
-## 📸 Screenshots
-
-> Include screenshots here (use `![](image-url)` if hosting on GitHub)
+- JavaScript (Vanilla or with frameworks like React)
+- Bootstrap 
+- Express.js (for backend)
+- MongoDB (for database)
 
 ## 📦 How to Run Locally
 
